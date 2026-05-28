@@ -1,0 +1,1 @@
+{\n  \"name\": \"food-order-app\",\n  \"version\": \"1.0.0\",\n  \"description\": \"鸿蒙外卖点餐应用\",\n  \"main\": \"entry/src/main/ets/MainAbility/MainAbility.ets\",\n  \"author\": \"qiyi-prog\",\n  \"license\": \"Apache License 2.0\"\n}
