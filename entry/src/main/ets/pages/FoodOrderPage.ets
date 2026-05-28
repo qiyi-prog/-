@@ -77,7 +77,7 @@ struct FoodOrderPage {
   }
 
   /**
-   * 清空购物车
+   * ��空购物车
    */
   clearCart() {
     this.cartItems = [];
