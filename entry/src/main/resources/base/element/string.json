@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "外卖点餐应用"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "外卖点餐主页面"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "外卖点餐"
+    }
+  ]
+}

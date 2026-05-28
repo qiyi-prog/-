@@ -1,0 +1,41 @@
+# Gradle files
+.gradle/
+build/
+.idea/
+.settings/
+.project
+.classpath
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build outputs
+/build
+/dist
+*.hap
+*.app
+
+# Dependencies
+.gradle
+.m2
+
+# DevEco Studio
+.settings/
+.gradle/
+build/
+.idea/
+*.iml
+
+# Local environment
+.env
+.env.local
+*.key

@@ -1,0 +1,12 @@
+# hvigor ignore file
+.git
+.gitignore
+.idea
+.vscode
+node_modules
+.gradle
+build
+dist
+*.hap
+*.app
+.DS_Store

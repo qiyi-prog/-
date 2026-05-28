@@ -1,0 +1,19 @@
+{
+  "libType": "shared",
+  "buildOption": {
+    "sourceOption": {
+      "commonSourceDir": "src/main"
+    },
+    "deltas": {
+      "incrementalCompile": true
+    },
+    "strictMode": true
+  },
+  "targets": [
+    {
+      "name": "default",
+      "runtimeOS": "HarmonyOS",
+      "compileSdkVersion": 12
+    }
+  ]
+}

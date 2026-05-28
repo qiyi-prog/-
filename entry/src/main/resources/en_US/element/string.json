@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Food Order App"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "Food Order Main Page"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "Food Order"
+    }
+  ]
+}
